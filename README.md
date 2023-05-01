@@ -15,9 +15,9 @@ This project aims to build a timer that can be used to schedule regular breaks d
 https://jwhodge.github.io/work-break-timer/
 
 ## Drum Machine
-https://jwhodge.github.io/drum-machine/
 The aim is to build a functioning set of drum pads that trigger a series of attached audio samples on click or with a keystroke.
 The design cues came from the old Roland Octopad midi controller which drummers & DJs used to add to their kits to trigger samples.
+https://jwhodge.github.io/drum-machine/
 
 ## Javascript Calculator
 Afunctioning calculator built with javascript frontend-libraries.
