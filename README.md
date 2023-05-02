@@ -1,9 +1,17 @@
-# All of My Projects
+# A List of my Projects
 
 This is a basic summary of all of the small projects and assignments that are viewable live.
 
+## RSPNSV Web Design site
+A experiment with Gatsby site builder.
+https://rspnsvwebdesignmaster.gatsbyjs.io/
+
+## ProducingTheatre.com
+A Wordpress site with articles about theatre producing for new producers.
+https://producingtheatre.com
+
 ## TTRPG Solo Play Oracle
-A small project to help with solo play TTRPG. 
+A small project to help with solo play TTRPG. Built in React with Redux.
 https://jwhodge.github.io/solo-play-oracle/
 
 ## Markdown Previewing Tool
